@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel! I'm a student at Swansea University finishing off my Computer Degree.
-- 👀 I’m interested in crypto currencies🚀, Linux Servers and embedded systems.
+- 👀 I’m interested in crypto currencies🚀, Linux Servers and digital radio.
 - 🌱 I’m currently learning C/C++, embedded systems with the ESP32 and software testing practises!
 - 📫 You can reach me by emailing samuelnetherwaygit@gmail.com
 
