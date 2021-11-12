@@ -12,7 +12,6 @@
 - Current Projects:
   - Linux home server improvements
   - Bonsai Bot
-  - 
 
 - Future project interests:
   - Crypto portfolio automations and scripting.
