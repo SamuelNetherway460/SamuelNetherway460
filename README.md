@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel! I'm a Swansea University Computer Science graduate.
 - 👀 I’m interested in crypto currencies🚀, Linux Servers and digital radio.
-- 🌱 I’m currently working on my home linux server.
+- 🌱 I’m currently working on my home linux server and a new series of Bonsai Bot projects.
 - 📫 You can reach me by emailing samuelnetherwaygit@gmail.com
 
 - Past Projects:
@@ -10,8 +10,9 @@
   - Music Metadata tagging in Java (MultiP3 & MultiP3 Tag Lib).
 
 - Current Projects:
-  - Pihole
   - Linux home server improvements
+  - Bonsai Bot
+  - 
 
 - Future project interests:
   - Crypto portfolio automations and scripting.
